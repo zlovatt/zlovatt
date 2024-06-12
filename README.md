@@ -10,4 +10,3 @@ In practical terms, this means I…
 * 📃 own & help maintain [docsforadobe.dev](https://docsforadobe.dev), a community-maintained collection of API documentation for Adobe products
   * ⚡ Want to contribute? [PRs very welcome](https://github.com/aenhancers)!
 * 📜 own & help maintain [aenhancers.com](https://aenhancers.com), the oldest dev-centered forum for Adobe After Effects
-* 📢 can be found on [twitter](https://twitter.com/zlovatt), but for work things [just email me](mailto:zack@lova.tt)
