@@ -1,8 +1,12 @@
 # Hi! My name's Zack!
 
-### I'm a 2d technical director & [run my own lil' TD boutique](https://lovatt.co/) in the motion design space
+## I'm a 2d technical director.
 
-In practical terms, this means I…
+I run my own [lil' TD boutique](https://lovatt.co/) in the motion design space.
+
+As an individual, you can find me [on my personal site](https://lova.tt).
+
+Day-to-day, I…
 
 * 🎂 develop freebie [toys & tools](https://github.com/zlovatt/zl_Scriptlets) for Adobe products
 * 🔨 sell [commercial tools](https://aescripts.com/authors/zack-lovatt/) to soften the After Effects edges
