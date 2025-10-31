@@ -1,10 +1,8 @@
 # Hi! My name's Zack!
 
-## I'm a 2d technical director.
+### I'm a 2d technical director
 
-I run my own [lil' TD boutique](https://lovatt.co/) in the motion design space.
-
-As an individual, you can find me [on my personal site](https://lova.tt).
+I run my own [lil' TD boutique](https://lovatt.co/) in the motion design space, and as an individual you can find me [on my personal site](https://lova.tt).
 
 Day-to-day, I…
 
